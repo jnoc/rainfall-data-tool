@@ -1,6 +1,6 @@
 # rainfall-data-tool
 
-This at least version 8.6.5 of GHCi which will be installed when you download from https://www.haskell.org/downloads/ (built and ran on windows)
+Use at least version 8.6.5 of GHCi which will be installed when you download from https://www.haskell.org/downloads/ (built and ran on windows)
 
 ## What is this?
 
